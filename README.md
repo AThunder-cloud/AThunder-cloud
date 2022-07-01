@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AThunder-cloud
+- 👀 I’m interested in Learning 
+- 🌱 I’m currently learning Linux,python,django..
